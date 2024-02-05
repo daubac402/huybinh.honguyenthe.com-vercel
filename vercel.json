@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.facebook.com/g0ldent0m",
+      "permanent": true
+    }
+  ]
+}
